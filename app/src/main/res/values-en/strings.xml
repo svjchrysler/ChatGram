@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="nome_user">Username</string>
+    <string name="hint_pasword">Password</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_have_account">¿No tienes cuenta ,?</string>
+    <string name="create_here">crea una aqui</string>
+
+</resources>
